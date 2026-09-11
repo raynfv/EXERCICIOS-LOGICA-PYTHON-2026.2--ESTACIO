@@ -27,5 +27,3 @@ Altura:  {} m
 Cidade:  {}
 ====================================
 """.format(nome, idade, altura, cidade))
-
-"teste"
